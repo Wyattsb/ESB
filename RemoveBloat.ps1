@@ -46,6 +46,9 @@ C:\ProgramData\Debloat\Debloat.log
   Change 26/05/2023 - Added Set-ACL
   Change 26/05/2023 - Added multi-language support for Set-ACL commands
   Change 30/05/2023 - Logic to check if gamepresencewriter exists before running Set-ACL to stop errors on re-run
+
+  ESB Changes
+  Change: 2023-06-22 - Removed extra locales
 .EXAMPLE
 N/A
 #>
